@@ -4,7 +4,6 @@ RDBMS Data Movement Framework
 
 ### Proposed Features
 
-Proposed Feature:
 1. Transfer data from RDBMS to local fs or distributed fs
 2. Parallel data read
 3. HA
