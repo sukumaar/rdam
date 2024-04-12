@@ -7,7 +7,7 @@ RDBMS Data Movement Framework
 1. Transfer data from RDBMS to local fs or distributed fs
 2. Parallel data read
 3. HA
-4. Restart ability
+4. Restart / Retry  ability
 5. Containerized
 6. Incremental Data load
 7. Historic load
@@ -22,9 +22,13 @@ RDBMS Data Movement Framework
 16. Custom query
 17. Error Handling (silent/ loud / default values)
 18. Quarantine Data (based on criteria and corrup data)
+19. Authentication Wrapper
+20. Preemptive connection pool
+
 
 
 
 Info:
 CDC
 SCD1..6
+WAL
